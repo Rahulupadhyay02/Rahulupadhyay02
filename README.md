@@ -1,6 +1,7 @@
 <!-- Profile README for Rahul Upadhyay -->
 
-<h1 align="center">Rahul Upadhyay</h>
+<h1 align="center"> Hi <img width="50" height="60" alt="image" src="https://github.com/user-attachments/assets/a7eb2b48-4b8a-41d6-adb7-b7cf43b5a278" />
+, I'm Rahul Upadhyay</h>
 
 # 💫 About Me:
 
