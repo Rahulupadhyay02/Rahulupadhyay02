@@ -1,14 +1,12 @@
 <!-- Profile README for Rahul Upadhyay -->
 
+
+<!-- Anime Profile Picture Aligned to Left -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20👋%2C%20I%27m%20Rahul%20Upadhyay;Welcome%20to%20my%20GitHub%20profile!;Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Python%20%7C%20IoT%20Enthusiast&center=true&width=500&height=40&color=0A66C2&vCenter=true&size=22" />
+  <img src="https://i.postimg.cc/XNLtP0m7/common.png" width="200" height="200" style="border-radius: 50%;" alt="Rahul's Profile" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/115721120?v=4" width="120" style="border-radius: 50%" alt="Rahul Upadhyay's Avatar" />
-</p>
-
-<h1 align="center">🚀 Rahul Upadhyay</h1>
+<h1 align="center">Rahul Upadhyay</h1>
 
 <p align="center">
   💻 Passionate Full-Stack Developer, App Developer & Problem Solver <br>
