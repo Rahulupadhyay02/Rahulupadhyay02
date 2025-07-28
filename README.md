@@ -1,18 +1,11 @@
 <!-- Profile README for Rahul Upadhyay -->
 
+<h1 align="center">Rahul Upadhyay</h>
 
-<!-- Anime Profile Picture Aligned to Left -->
-<p align="center">
-  <img src="https://i.postimg.cc/XNLtP0m7/common.png" width="200" height="200" style="border-radius: 50%;" alt="Rahul's Profile" />
-</p>
+# 💫 About Me:
 
-<h1 align="center">Rahul Upadhyay</h1>
-
-<p align="center">
-  💻 Passionate Full-Stack Developer, App Developer & Problem Solver <br>
-  🎯 Specializing in Web Apps, Androin Apps, Dashboards, and Data Analytics <br>
-  🌐 Exploring Cloud, Firebase, IoT, and Machine Learning
-</p>
+📫 Reach me at: [rahulupadhyay3640@gmail.com](mailto:rahulupadhyay3640@gmail.com)  
+📄 View my resume: [Click here](https://drive.google.com/file/d/1KaxAtM8ZsrMJjCqKwgAxxgTIJ0zN8i6Q/view?usp=drive_link)
 
 ---
 
