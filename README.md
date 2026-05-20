@@ -1,4 +1,4 @@
-```md
+
 <!-- ============================= -->
 <!--      PREMIUM GITHUB README    -->
 <!-- ============================= -->
@@ -170,4 +170,4 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Always+Learning+🚀;Always+Building+⚡" />
 
 </div>
-```
+
