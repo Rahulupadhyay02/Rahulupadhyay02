@@ -94,35 +94,35 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulupadhyay02&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahulupadhyay02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulupadhyay02&layout=compact&theme=tokyonight&hide_border=true)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulupadhyay02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" />
-
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Rahulupadhyay02&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Rahulupadhyay02&theme=tokyonight&hide_border=true)
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulupadhyay02&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahulupadhyay02&theme=tokyo-night&hide_border=true&area=true)
 
-</div>
+</p>
 
-
+---
 # 🧠 Core Concepts
 
 <p align="center">
