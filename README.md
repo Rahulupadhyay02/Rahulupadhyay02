@@ -94,31 +94,34 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulupadhyay02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahulupadhyay02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulupadhyay02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulupadhyay02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" />
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulupadhyay02&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Rahulupadhyay02&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulupadhyay02&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<div align="center">
 
----
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulupadhyay02&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
 
 # 🧠 Core Concepts
 
