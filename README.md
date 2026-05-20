@@ -41,7 +41,17 @@
 ## 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,c,cs,kotlin,bash,mysql" />
+
+<img title="Java" alt="Java" width="55px" src="https://skillicons.dev/icons?i=java" />
+<img title="Python" alt="Python" width="55px" src="https://skillicons.dev/icons?i=python" />
+<img title="C++" alt="C++" width="55px" src="https://skillicons.dev/icons?i=cpp" />
+<img title="JavaScript" alt="JavaScript" width="55px" src="https://skillicons.dev/icons?i=js" />
+<img title="C" alt="C" width="55px" src="https://skillicons.dev/icons?i=c" />
+<img title="C#" alt="C#" width="55px" src="https://skillicons.dev/icons?i=cs" />
+<img title="Kotlin" alt="Kotlin" width="55px" src="https://skillicons.dev/icons?i=kotlin" />
+<img title="Bash" alt="Bash" width="55px" src="https://skillicons.dev/icons?i=bash" />
+<img title="MySQL" alt="MySQL" width="55px" src="https://skillicons.dev/icons?i=mysql" />
+
 </p>
 
 ---
@@ -49,7 +59,16 @@
 ## 🌐 Full Stack Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,mongodb,firebase,flask" />
+
+<img title="React" alt="React" width="55px" src="https://skillicons.dev/icons?i=react" />
+<img title="Node.js" alt="Node.js" width="55px" src="https://skillicons.dev/icons?i=nodejs" />
+<img title="HTML5" alt="HTML5" width="55px" src="https://skillicons.dev/icons?i=html" />
+<img title="CSS3" alt="CSS3" width="55px" src="https://skillicons.dev/icons?i=css" />
+<img title="JavaScript" alt="JavaScript" width="55px" src="https://skillicons.dev/icons?i=js" />
+<img title="MongoDB" alt="MongoDB" width="55px" src="https://skillicons.dev/icons?i=mongodb" />
+<img title="Firebase" alt="Firebase" width="55px" src="https://skillicons.dev/icons?i=firebase" />
+<img title="Flask" alt="Flask" width="55px" src="https://skillicons.dev/icons?i=flask" />
+
 </p>
 
 ---
@@ -58,12 +77,17 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-0081CB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-009688?style=for-the-badge"/>
+<img title="PyTorch" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img title="Machine Learning" alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+
+<img title="Computer Vision" alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-0081CB?style=for-the-badge"/>
+
+<img title="CNNs" alt="CNNs" src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge"/>
+
+<img title="EDA" alt="EDA" src="https://img.shields.io/badge/EDA-7B1FA2?style=for-the-badge"/>
+
+<img title="Feature Engineering" alt="Feature Engineering" src="https://img.shields.io/badge/Feature_Engineering-009688?style=for-the-badge"/>
 
 </p>
 
@@ -72,8 +96,17 @@
 ## 📱 Android Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,java" />
+
+<img title="Android Studio" alt="Android Studio" width="55px" src="https://skillicons.dev/icons?i=androidstudio" />
+
+<img title="Kotlin" alt="Kotlin" width="55px" src="https://skillicons.dev/icons?i=kotlin" />
+
+<img title="Firebase" alt="Firebase" width="55px" src="https://skillicons.dev/icons?i=firebase" />
+
+<img title="Java" alt="Java" width="55px" src="https://skillicons.dev/icons?i=java" />
+
 </p>
+
 
 ---
 
@@ -124,13 +157,6 @@
 
 </p>
 
----
-
-# 🏅 Achievements
-
-🏆 Gold Medal — Shot Put (District Level U-19)  
-🥈 Silver Medal — Discus Throw  
-🏃 Runner-Up — Kabaddi  
 
 ---
 
