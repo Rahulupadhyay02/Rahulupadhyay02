@@ -6,7 +6,8 @@
 # 💫 About Me:
 
 📫 Reach me at: [rahulupadhyay3640@gmail.com](mailto:rahulupadhyay3640@gmail.com)  
-📄 View my resume: [Click here](https://drive.google.com/file/d/1KaxAtM8ZsrMJjCqKwgAxxgTIJ0zN8i6Q/view?usp=drive_link)
+📄 View my resume: [Click here](https://drive.google.com/file/d/1JsxW-yXjvP_JVZB4r0m-fTf2qCbILppq/view?usp=sharing)
+💻  LinkedIn :[Rahul Upadhyay](https://www.linkedin.com/in/rahul-upadhyay-7a9661354/)
 
 ---
 
